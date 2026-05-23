@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&family=Nunito:ital,wght@0,200..900;1,200..900&family=Poppins:ital,wght@0,100..900;1,100..900&family=Xanh+Mono:ital@0;1&display=swap');
+
+@theme {
+  --font-monte: "MonteCarlo", cursive;
+  --font-poppins: "Poppins", sans-serif;
+  --font-nunito: "Nunito", sans-serif;
+  --font-xanh: "Xanh Mono", monospace;
+}
