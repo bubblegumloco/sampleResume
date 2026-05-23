@@ -1,4 +1,4 @@
-# 🧬 Conan Resume
+# 🧬 Conan's Resume
 
 This is a small project I made using React, Vite, and Tailwind CSS. It’s basically a creative experiment where I built a fake resume for a the bacterial species Deinococcus (Conan) Radiodurans.
 
