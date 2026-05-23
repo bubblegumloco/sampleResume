@@ -1,16 +1,20 @@
-# React + Vite
+# 🧬 Conan Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a small project I made using React, Vite, and Tailwind CSS. It’s basically a creative experiment where I built a fake resume for a the bacterial species Deinococcus (Conan) Radiodurans.
 
-Currently, two official plugins are available:
+I used this as a way to practice frontend development and also play around with layout and visual design a bit more freely than a normal project would allow. I wanted to get more comfortable building projects from scratch with React + Vite and also improve how I structure and style UI using Tailwind.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
 
-## React Compiler
+# Running it Locally: 
+npm install 
+npm run dev 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# To build:
+nom run build 
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🌐 Live version
+[Conan's Resume](https://conan-dr-resume.vercel.app)
